@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Muhummad%20Rehan/Downloads/medical-drone-delivery-website%20%281%29/components/theme-provider.tsx"],"sourcesContent":["\"use client\"\nimport { ThemeProvider as NextThemesProvider, type ThemeProviderProps } from \"next-themes\"\n\nexport function ThemeProvider({ children, ...props }: ThemeProviderProps) {\n  return (\n    <NextThemesProvider attribute=\"class\" defaultTheme=\"system\" enableSystem {...props}>\n      {children}\n    </NextThemesProvider>\n  )\n}\n"],"names":[],"mappings":";;;;;AACA;AADA;;;AAGO,SAAS,cAAc,EAAE,QAAQ,EAAE,GAAG,OAA2B;IACtE,qBACE,6LAAC,oKAAkB;QAAC,WAAU;QAAQ,cAAa;QAAS,YAAY;QAAE,GAAG,KAAK;kBAC/E;;;;;;AAGP;KANgB"}}]
+}
