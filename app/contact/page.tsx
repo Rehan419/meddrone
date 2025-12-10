@@ -160,7 +160,7 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2">Headquarters</h3>
                 <p className="text-muted-foreground mb-4">Global operations center</p>
-                <p className="text-primary font-semibold">Lahore, USA</p>
+                <p className="text-primary font-semibold">Lahore, Pakistan</p>
               </div>
             </div>
           </div>
