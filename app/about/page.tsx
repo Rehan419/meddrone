@@ -6,7 +6,7 @@ import { Footer } from "@/components/footer"
 import { Heart, Leaf, Zap, Users, Target, Award } from "lucide-react"
 
 const teamMembers = [
-  { name: "Muhammad Rehan", role: "Founder & CEO", bio: "Medical technology innovator with 15+ years in healthcare" ,image: "/team/rehan.jpg"},
+  { name: "Muhammad Rehan", role: "Founder & CEO", bio: "Medical technology innovator with 15+ years in healthcare" ,image: "/team/Picture.jpeg"},
   { name: "Muhammad Saqlain", role: "Chief Technology Officer", bio: "Drone engineer and autonomous systems expert",image: "/team/saqlain.jpg" },
   { name: "Muhmmad Burhan", role: "Chief Medical Officer", bio: "Physician and healthcare logistics specialist",image: "/team/burhan.jpg" },
   {
