@@ -13,7 +13,7 @@ const teamMembers = [
     name: "Muhammad Abu Hurairah",
     role: "Chief Operations Officer",
     bio: "Supply chain and logistics management professional",
-    image: "/team/hurairah.jpg"
+    image: "/team/Picture1.jpeg"
   },
 ]
 
